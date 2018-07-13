@@ -26,7 +26,6 @@ body{
         font-size: 21px;
         font-weight: 200;
         line-height: 2.1428571435;
-        background-color: rgb(224, 84, 18);
         -webkit-animation: background 5s cubic-bezier(1,0,0,1) infinite;
         animation: background 5sinfinite;    
      }
@@ -43,11 +42,11 @@ body{
 }
 #form{
     margin: 15%;
-    background-color: aliceblue;
+    background-color: argb(150, 100, 205);
     align: center;
 }
 .container{
-    background-color: rgb(54, 33, 18);
+    background-color: rgb(160, 158, 158);
     padding-top: 2.5%;
     padding-bottom: 15%
 }
