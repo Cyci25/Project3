@@ -70,18 +70,18 @@ body{
 
 /* CSS edits on the about.html */
 .header{
-    background-color: aliceblue;
-    margin: 10%;
+
+    margin-left: 32%;
     align-self: center;
 }
 .body{
-    background-color: aliceblue;
-    margin: 10%;
+    margin-left: 35%;
+    margin-bottom: 10px;
+    margin-top: 10px;
     align-self: center;
 }
 .footer{
-    background-color: aliceblue;
-    margin: 10%;
+    margin-left: 30%;
     align-self: center;
 }
 
