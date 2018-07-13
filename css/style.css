@@ -1,5 +1,5 @@
 body{
-    background-image: ("../img/sunset.jpeg");
+    background-image: url("../img/sunset.jpeg");
 }
 body{
     font-family: 'Noto Sans', sans-serif;
