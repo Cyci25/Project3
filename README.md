@@ -1,5 +1,5 @@
 # PING PONG
-#### , 13/07/2018
+#### 13/07/2018
 #### By **Cynthia Muriithi**
 ## Description
 This is a software programme that manupilates numbers in that:
