@@ -3,15 +3,19 @@
 .container{
     background-color: rgb(160, 158, 158);
     padding-top: 2.5%;
-    padding-bottom: 15%
+    padding-bottom: 15%;
 }
 /* End of shared */
 
 /* CSS edits on the index.html */
 .pic{
+    margin: 0%;  
     align: center;
 }
-/* End of edits on rules */
+
+/* End of edits on index.html */
+
+
 
 /* CSS edits on the about.html */
 .aboutI {
