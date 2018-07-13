@@ -1,5 +1,51 @@
+/* Used by all pages */
+
+.container{
+    background-color: rgb(160, 158, 158);
+    padding-top: 2.5%;
+    padding-bottom: 15%
+}
+/* End of shared */
+
+/* CSS edits on the index.html */
+.pic{
+    align: center;
+}
+/* End of edits on rules */
+
+/* CSS edits on the about.html */
+.aboutI {
+    margin: 10%;
+    align: center;
+}
+.header{
+
+    margin-left: 32%;
+    align-self: center;
+}
+.body{
+    margin-left: 35%;
+    margin-bottom:  10px;
+    margin-top: 10px;
+    align-self: center;
+}
+.footer{
+    margin-left: 30%;
+    align-self: center;
+}
+/* End of edits on rules */
+
+
+/* CSS edits on the rule.html */
+.list{
+    font: italic;
+    font-size: 20px;
+}
+/* End of edits on rules */
+
 
 /* CSS edits on the play.html */
+/* The First Animation */
 body{
     font-family: 'Noto Sans', sans-serif;
       margin:0;
@@ -40,52 +86,4 @@ body{
   87.5% { background-color: rgb(2, 219, 248); }
   100% { background-color:  rgb(33, 22, 189);}
 }
-#form{
-    margin: 15%;
-    background-color: argb(150, 100, 205);
-    align: center;
-}
-.container{
-    background-color: rgb(160, 158, 158);
-    padding-top: 2.5%;
-    padding-bottom: 15%
-}
-#form-group{
-    margin: 15%;
-    background-color: aliceblue;
-    align: center;
-    margin: 25%
-}
-
-#form1{
-    margin: 15%;
-    background-color: aliceblue;
-    align: center;
-}
-.aboutI {
-    margin: 10%;
-    align: center;
-}
-
-
-/* CSS edits on the about.html */
-.header{
-
-    margin-left: 32%;
-    align-self: center;
-}
-.body{
-    margin-left: 35%;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    align-self: center;
-}
-.footer{
-    margin-left: 30%;
-    align-self: center;
-}
-
-/* CSS edits on the index.html */
-.pic{
-    align: center;
-}
+/* End of first animation */
